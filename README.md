@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fanthonessen
-- 👀 i'm a developer from Oslo - Norway, Working for Communicate Norge AS
+- 👀 i'm a developer from Oslo - Norway, Working for EVIDI AS
 
 
 <!---
